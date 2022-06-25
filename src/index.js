@@ -1,8 +1,8 @@
 // import innerComponents from 'atherdon-newsletter-js-layouts-body';
 
-// import { 
-//   printMain, printFooter, printBody 
-// } from './methods';
+import { 
+  printMain, printFooter, printBody 
+} from './methods';
 
 
 

@@ -1,3 +1,7 @@
+// ({
+//   babel: true 
+// })
+
 import { writeHTML, generateTemplateName } from 'markup-generator'
 
 
@@ -56,8 +60,8 @@ const writingFile = (content) => {
     writeHTML(fileName, content);
   } catch (err) { 
     
-    console.log(err);
-    console.log(content);
+    // console.log(err);
+    // console.log(content);
   }
   
 }
@@ -66,10 +70,7 @@ const writingFile = (content) => {
 
 export { 
   printMain, 
-  
   printFooter, printBody,
   printHead,
-
-
   writingFile
  }
