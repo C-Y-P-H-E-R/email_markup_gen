@@ -53,6 +53,7 @@
     "atherdon-newsletter-js-layouts-body": "^2.0.0",
     "atherdon-newsletter-js-layouts-misc": "^2.2.0",
     "atherdon-newsletter-js-layouts-typography": "^2.0.0",
+    "babel-preset-react-app": "^10.0.1",
     "lodash": "^4.17.21"
   },
   "optionalDependencies": {
